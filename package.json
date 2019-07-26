@@ -1,0 +1,28 @@
+{
+  "name": "ajeaje",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chicken2039/nodejs_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chicken2039/nodejs_learn/issues"
+  },
+  "homepage": "https://github.com/chicken2039/nodejs_learn#readme"
+}
